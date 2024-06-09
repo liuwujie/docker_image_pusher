@@ -1,2 +1,3 @@
 redis
 selenium/standalone-chrome
+openjdk:17-jdk-slim
