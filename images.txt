@@ -1,3 +1,4 @@
 redis
 selenium/standalone-chrome
 openjdk:17-jdk-slim
+mongodb/mongodb-community-server
