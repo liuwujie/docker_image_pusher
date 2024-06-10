@@ -2,4 +2,4 @@ redis
 selenium/standalone-chrome
 openjdk:17-jdk-slim
 mongodb/mongodb-community-server
-demisto/opencv
+demisto/opencv:1.0.0.96904
