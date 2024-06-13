@@ -3,4 +3,4 @@ selenium/standalone-chrome
 openjdk:17-jdk-slim
 mongodb/mongodb-community-server
 demisto/opencv:1.0.0.96904
-opencv-java-arm
+opencv-java-arm:latest
