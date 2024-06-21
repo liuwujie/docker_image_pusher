@@ -4,3 +4,4 @@ openjdk:17-jdk-slim
 mongodb/mongodb-community-server
 demisto/opencv:1.0.0.96904
 dalaohu153/opencv-java21
+mysql:8.4.0
