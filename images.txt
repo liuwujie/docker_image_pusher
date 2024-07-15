@@ -9,3 +9,4 @@ meddream/jdk17
 selenium/hub:4.22.0
 selenium/node-chrome:126.0
 rabbitmq
+selenium/event-bus:4.22.0
