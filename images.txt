@@ -1,10 +1,10 @@
 redis
-selenium/standalone-chrome:126.0
+selenium/standalone-chrome
 openjdk:17-jdk-slim
 mongodb/mongodb-community-server
 mysql:8.4.0
 meddream/jdk17
-selenium/hub:4.22.0
-selenium/node-chrome:127.0
+selenium/hub
+selenium/node-chrome
 rabbitmq
 nacos/nacos-server
