@@ -7,3 +7,4 @@ meddream/jdk17
 selenium/hub:4.22.0
 selenium/node-chrome:127.0
 rabbitmq
+nacos/nacos-server
