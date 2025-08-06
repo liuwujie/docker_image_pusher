@@ -8,3 +8,4 @@ selenium/hub
 selenium/node-chrome
 rabbitmq
 nacos/nacos-server
+current-alpine3.22
