@@ -1,12 +1,1 @@
-redis
-selenium/standalone-chrome
-openjdk:17-jdk-slim
-mongodb/mongodb-community-server
-mysql:8.4.0
-meddream/jdk17
-selenium/hub
-selenium/node-chrome
-rabbitmq
-nacos/nacos-server
-node:alpine3.22
 nginx:latest
