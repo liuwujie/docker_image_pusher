@@ -9,4 +9,4 @@ selenium/node-chrome
 rabbitmq
 nacos/nacos-server
 node:alpine3.22
-
+nginx:latest
