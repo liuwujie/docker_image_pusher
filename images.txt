@@ -1,5 +1,1 @@
-mysql:latest
-mongodb/mongodb-community-server:latest
-redis:latest
-rabbitmq:latest
 openjdk:9.0.1-11-slim
