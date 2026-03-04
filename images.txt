@@ -2,4 +2,4 @@ mysql:latest
 mongodb/mongodb-community-server:latest
 redis:latest
 rabbitmq:latest
-openjdk:8-jdk-slim
+openjdk:8
